@@ -1,0 +1,17 @@
+{
+  "name": "catouluge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "start": "nodemon "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Math": "^0.0.1-security",
+    "nodemon": "^3.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
